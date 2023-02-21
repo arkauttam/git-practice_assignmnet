@@ -1,4 +1,4 @@
-Check whether a number is Prime or not
+Check whether a number is Prime or not.
 
 let num=17;
 if(isPrime(num)){
